@@ -1,6 +1,7 @@
 {
-  "core": null,
-  "themes": [
-    "./themes/learn-wp-dev"
-  ]
+	"core": null,
+	"plugins": [
+		"WordPress/create-block-theme",
+		"WordPress/safe-svg"
+	]
 }
