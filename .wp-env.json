@@ -2,6 +2,6 @@
 	"core": null,
 	"plugins": [
 		"WordPress/create-block-theme",
-		"WordPress/safe-svg"
+		"10up/safe-svg"
 	]
 }
