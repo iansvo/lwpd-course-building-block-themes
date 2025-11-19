@@ -1,0 +1,15 @@
+{
+  "name": "building-block-themes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "wp-env": "WP_ENV_PORT=1337 WP_ENV_TESTS_PORT=1338 wp-env"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/env": "^10.34.0"
+  }
+}
