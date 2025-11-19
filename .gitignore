@@ -6,3 +6,8 @@ vendor
 .vscode
 .cursor
 .DS_Store
+.gzip
+.rar
+.zip
+.sql
+.sqlz
