@@ -2,5 +2,9 @@
   "core": null,
   "themes": [
     "./themes/learn-wp-dev"
+  ],
+  "plugins": [
+	"WordPress/create-block-theme",
+	"WordPress/safe-svg"
   ]
 }
