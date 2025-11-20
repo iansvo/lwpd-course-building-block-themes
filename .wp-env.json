@@ -1,7 +1,7 @@
 {
 	"core": null,
 	"plugins": [
-		"WordPress/create-block-theme",
-		"10up/safe-svg"
+		"https://downloads.wordpress.org/plugin/create-block-theme.zip",
+		"https://downloads.wordpress.org/plugin/safe-svg.zip"
 	]
 }
